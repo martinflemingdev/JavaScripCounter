@@ -1,6 +1,5 @@
 // set initial count
 let count = 0;
-console.log('HELO')
 // select value and buttons
 
 const value = document.querySelector('#value');
